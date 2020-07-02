@@ -1,7 +1,7 @@
--composer install
--php artisan migrate
--php artisan db:seed
--php artisan serve
+-composer install <br>
+-php artisan migrate <br>
+-php artisan db:seed <br>
+-php artisan serve <br>
 
 
 studying api auth with laravel + jwt
