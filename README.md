@@ -5,3 +5,6 @@
 
 
 studying api auth with laravel + jwt
+
+
+https://jwt-auth.readthedocs.io/
